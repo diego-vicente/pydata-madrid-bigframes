@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "bf-demo"
+name = "bigframes-demo"
 version = "0.1.0"
-description = "A quick demo of the BigFrames possibilities"
+description = "A Quick Intro to BigQuery DataFrames"
 authors = ["Diego Vicente <dvicente@carto.com>"]
 license = "MIT License"
 readme = "README.md"
